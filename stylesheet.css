@@ -66,19 +66,22 @@ p {
 	list-style:none;
 	padding:1em;
 	display:inline-block;
+	color:white;
 }
 
 .navbar li a {
 	text-decoration:none;
-	color:white;
+	color:inherit;
 }
 
 .navbar li:hover {
-	background-color:#7E317B;
+	background-color:white;
+	color:black
 }
 
 #thisPage {
-	background-color:#7E317B;
+	background-color:white;
+	color:black;
 }
 
 /* CONTAINER */
