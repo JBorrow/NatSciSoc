@@ -23,7 +23,9 @@ img {
 }
 
 a {
-	color:#45CAB9
+	color:#45CAB9;
+	text-decoration:none;
+	font-family:inherit;
 }
 
 p {
