@@ -1,0 +1,120 @@
+/* Natural Sciences Society Website 2014
+ *
+ * Joshua Borrow
+ * Durham University
+ * joshua.borrow@durham.ac.uk */
+
+html * {
+	margin:0;
+	padding:0;
+}
+
+body * {
+	font-family:sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family:"Rokkitt", sans-serif;
+}
+
+img {
+	width:inherit;
+	border:1px solid #7E317B;
+}
+
+a {
+	color:#45CAB9
+}
+
+p {
+	padding:0.5em 0 0.5em 0;
+}
+
+/* TITLE */
+
+.title {
+	padding:1em 5em 1em 5em;
+	overflow:auto;
+	background-color:#7E317B;
+}
+
+.title img {
+	width:10em;
+	float:left;
+}
+
+.titletext {
+	font-family:sans-serif;
+	float:right;
+	font-size:5em;
+	width:10em;
+	font-family:"Rokkitt", sans-serif;
+	color:white;
+}
+
+/* NAVBAR */
+
+.navbar {
+	text-align:center;
+	clear:both;
+	background-color:#45CAB9;
+}
+
+.navbar li {
+	list-style:none;
+	padding:1em;
+	display:inline-block;
+}
+
+.navbar li a {
+	text-decoration:none;
+	color:white;
+}
+
+.navbar li:hover {
+	background-color:#7E317B;
+}
+
+#thisPage {
+	background-color:#7E317B;
+}
+
+/* CONTAINER */
+
+.container {
+	padding-top:1em;
+	width:65em;
+	margin:auto;
+}
+
+/* MAIN */
+
+.main {
+	width:40em;
+	float:left;
+	background-color:#eeeeee;
+	padding:1em;
+}
+
+/* SIDEBAR */
+
+.sidebar {
+	width:20em;
+	float:right;
+	background-color:#eeeeee;
+	padding:1em;
+}
+
+/* FOOTER */
+
+.getsinway {
+	clear:both;
+	height:10em;
+	width:10em;
+}
+
+.footer {
+	padding:1em;
+	background-color:#eeeeee;
+	clear:both;
+}
