@@ -35,9 +35,10 @@ p {
 /* TITLE */
 
 .title {
-	padding:1em 5em 1em 5em;
+	padding:1em 0 1em 0;
 	overflow:auto;
 	background-color:#7E317B;
+	width:100%;
 }
 
 .title img {
@@ -45,13 +46,20 @@ p {
 	float:left;
 }
 
+.inner {
+	margin:auto;
+	display:block;
+	max-width:65em;
+}
+
 .titletext {
 	font-family:sans-serif;
-	float:right;
+	float:left;
 	font-size:5em;
-	max-width:10em;
+	max-width:9.6em;
 	font-family:"Rokkitt", sans-serif;
 	color:white;
+	padding-left:0.5em;
 }
 
 /* NAVBAR */
@@ -90,6 +98,14 @@ p {
 	padding-top:1em;
 	width:65em;
 	margin:auto;
+}
+
+.upcomingcontainer {
+	width:62.1em;
+	background-color:#eeeeee;
+	padding:1em;
+	margin:auto;
+	margin-top:1em;
 }
 
 /* MAIN */
