@@ -49,7 +49,7 @@ p {
 	font-family:sans-serif;
 	float:right;
 	font-size:5em;
-	width:10em;
+	max-width:10em;
 	font-family:"Rokkitt", sans-serif;
 	color:white;
 }
