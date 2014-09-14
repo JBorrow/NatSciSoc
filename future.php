@@ -14,13 +14,11 @@
         require_once("navbar.php");
         ?>
         <div class = "upcomingcontainer">
-            <h1> Upcoming Events </h1>
+            <h1 class="upcomingh1"> Upcoming Events </h1>
 
             <?php
             require_once("upcoming.php");
-
-            upcomingmakedivs("Upcoming");
-
+            upcomingmakedivs("Events");
             ?>            
         </div>
 

@@ -45,9 +45,16 @@ function makedivs($dir)
 {
     $dirs = directorylister($dir);
     $dirs = array_reverse($dirs);
+	if (file_exists($dir."/".$dirs[0])) {
+		//if we are down to names, print out the date and year
+		//split the directory to show the montha nd year
+		$xpld = explode("/", $dir);
+		echo "<h2>".$xpld[2]." ".$xpld[1]."</h2>";	
+	}
     foreach ($dirs as $string) {
         if (is_dir("$dir/$string")) {
-            echo "<h2>$string</h2>";
+            echo "<br/>
+			<h1>$string</h1>";
             //now we need to do months
             $subdirs = directorylister("$dir/$string");
             foreach ($subdirs as $subdir) {
