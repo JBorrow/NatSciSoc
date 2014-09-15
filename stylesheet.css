@@ -168,3 +168,17 @@ p {
     padding:0 0 0.5em 0.5em;
 	font-family:"Rokkitt";
 }
+
+/* ABOUT */
+
+.exec {
+	overflow:auto;
+	padding:0.5em 0 0.5em 0;
+}
+
+.exec img {
+	border:0;
+	float:left;
+	width:8em;
+	padding-right:1em;
+}
