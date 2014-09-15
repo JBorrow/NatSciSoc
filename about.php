@@ -16,11 +16,34 @@
 
 		<div class="container">
 			<div class="main">
-				<h1>This page is currently under construction for Freshers
-				2014</h1>
-				<h2>If you need to contact us for help, advice or just to
-				introduce yourself, you can at <a href='mai&#108;to&#58;n&#37;61t&#46;sc&#105;&#46;%73o%63%&#52;0d%75r%68&#97;&#109;&#46;a%6&#51;&#46;%&#55;&#53;&#37;&#54;B'>n&#97;t&#46;sci&#46;soc&#64;durham&#46;&#97;c&#46;&#117;k</a>
-				</h2>
+				<h1>Your Exec</h1>
+
+				<div class="exec">
+					<img src="Exec/josh.jpg" alt="Josh" />
+					<h2>President - Josh Borrow</h2>
+					<p>Josh is a 2nd year Physics student who also runs Cafe
+					Scientifique Durham City (one of the societies projects)
+					in his spare time.</p>
+					<p>Contact:</p>
+				</div>
+
+				<div class="exec">
+					<img src="Exec/harry.jpg" alt="Harry" />
+					<h2>Treasurer - Harry Wang</h2>
+					<p>Harry is a 2nd year Natural Sciences student.</p>
+				</div>
+				<div class="exec">
+					<img src="Exec/eve.jpg" alt="Eve" />
+					<h2>Secretary - Eve Twivy</h2>
+					<p>Eve is a 2nd year Natural Sciences Student.</p>
+					<p>Contact:</p>
+				</div>
+				<div class="exec">
+					<img src="Exec/emily.jpg" alt="Emily" />
+					<h2>Publicity Officer - Emily Hughes</h2>
+					<p>Emily is a 2nd year Natural Sciences Student.</p>
+					<p>Contact:</p>
+				</div>
 			</div>
 
 			<div class="sidebar">
