@@ -34,32 +34,16 @@ p {
 
 /* TITLE */
 
-.title {
-	padding:1em 0 1em 0;
-	overflow:auto;
-	background-color:#7E317B;
-	width:100%;
-}
-
 .title img {
-	width:10em;
-	float:left;
-}
-
-.inner {
+	width:50em;
+	padding:1em;
 	margin:auto;
-	display:block;
-	max-width:65em;
 }
 
-.titletext {
-	font-family:sans-serif;
-	float:left;
-	font-size:5em;
-	max-width:9.6em;
-	font-family:"Rokkitt", sans-serif;
-	color:white;
-	padding-left:0.5em;
+.title {
+	width:100%;
+	text-align:center;
+	background-color:#7E317B;
 }
 
 /* NAVBAR */
