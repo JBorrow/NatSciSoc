@@ -35,7 +35,7 @@ p {
 /* TITLE */
 
 .title img {
-	width:50em;
+	width:40em;
 	padding:1em;
 	margin:auto;
 }
@@ -80,12 +80,12 @@ p {
 
 .container {
 	padding-top:1em;
-	width:65em;
+	max-width:60em;
 	margin:auto;
 }
 
 .upcomingcontainer {
-	width:63.1em;
+	max-width:42.1em;
 	background-color:#eeeeee;
 	padding:1em;
 	margin:auto;
@@ -96,17 +96,18 @@ p {
 /* MAIN */
 
 .main {
-	width:40em;
+	width:35em;
 	float:left;
 	background-color:#eeeeee;
 	padding:1em;
+	margin:0 1em 1em 0;
 }
 
 /* SIDEBAR */
 
 .sidebar {
 	width:20em;
-	float:right;
+	float:left;
 	background-color:#eeeeee;
 	padding:1em;
 }
