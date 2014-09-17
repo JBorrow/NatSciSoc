@@ -30,7 +30,9 @@
 				<div class="exec">
 					<img src="Exec/harry.png" alt="Harry" />
 					<h2>Treasurer - Harry Wang</h2>
-					<p>Harry is a 2nd year Natural Sciences student.</p>
+					<p>Harry is a 2nd year Natural Sciences student from
+					Collingwood who studies modules in both Physics and
+					Mathematics.</p>
 					<p>Contact: <a href='&#109;&#97;&#105;lto&#58;h&#46;h&#46;&#119;a%&#54;E&#103;&#64;durha&#109;&#46;&#97;c&#46;u&#107;'>h&#46;h&#46;w&#97;ng&#64;dur&#104;am&#46;ac&#46;u&#107;</a></p>
 				</div>
 				<div class="exec">
