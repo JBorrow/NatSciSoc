@@ -7,6 +7,7 @@
 html * {
 	margin:0;
 	padding:0;
+	color:#181818;
 }
 
 body * {
@@ -24,7 +25,7 @@ img {
 }
 
 a {
-	color:#45CAB9;
+	color:#006388;
 	text-decoration:none;
 	font-family:inherit;
 }
@@ -52,7 +53,7 @@ p {
 .navbar {
 	text-align:center;
 	clear:both;
-	background-color:#45CAB9;
+	background-color:#006388;
 }
 
 .navbar li {
@@ -74,7 +75,7 @@ p {
 
 #thisPage {
 	background-color:white;
-	color:black;
+	color:#181818;
 }
 
 /* CONTAINER */
@@ -164,6 +165,7 @@ p {
     display:inline-block;
 	padding:0.5em;
 	font-family:"Rokkitt";
+	color:#006388;
 }
 
 .textinpast {
