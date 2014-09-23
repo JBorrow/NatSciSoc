@@ -11,4 +11,7 @@
 	<li <?php if ($thisPage=="About") echo "id=\"thisPage\"";?>>
 		<a href="about.php">About</a>
 	</li>
+	<li <?php if ($thisPage=="Support") echo "id=\"thisPage\"";?>>
+		<a href="support.php">Support</a>
+	</li>
 </ul>
