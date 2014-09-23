@@ -38,7 +38,9 @@
 				<div class="exec">
 					<img src="Exec/eve.png" alt="Eve" />
 					<h2>Secretary - Eve Twivy</h2>
-					<p>Eve is a 2nd year Natural Sciences student.</p>
+					<p>Emily is a 2nd year Natural Sciences student at St
+					Aidan's College. She is studying joint honours Biology and
+					Chemistry.</p>
 					<p>Contact: <a href='m&#97;i&#108;&#116;o&#58;e&#46;r&#46;%6&#55;&#46;&#37;74&#119;i&#118;y&#64;durham&#46;&#37;&#54;1c&#37;&#50;&#69;&#117;k'>e&#46;r&#46;g&#46;twi&#118;y&#64;du&#114;ham&#46;&#97;c&#46;uk</a></p>
 				</div>
 				<div class="exec">
