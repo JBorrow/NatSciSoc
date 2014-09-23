@@ -15,6 +15,7 @@ body * {
 
 h1, h2, h3, h4, h5, h6 {
 	font-family:"Rokkitt", sans-serif;
+	padding-top:0.25em;
 }
 
 img {
@@ -87,7 +88,7 @@ p {
 .upcomingcontainer {
 	max-width:42.1em;
 	background-color:#eeeeee;
-	padding:1em;
+	padding:0.5em 1em 1em 1em;
 	margin:auto;
 	margin-top:1em;
 	overflow:auto;
@@ -99,7 +100,8 @@ p {
 	width:35em;
 	float:left;
 	background-color:#eeeeee;
-	padding:1em;
+	/* Padding like this because of header padding otherwise top overfull */
+	padding:0.5em 1em 1em 1em;
 	margin:0 1em 1em 0;
 }
 
@@ -109,7 +111,7 @@ p {
 	width:20em;
 	float:left;
 	background-color:#eeeeee;
-	padding:1em;
+	padding:0.5em 1em 1em 1em;
 }
 
 .upcoming {
