@@ -38,15 +38,17 @@
 				<div class="exec">
 					<img src="Exec/eve.png" alt="Eve" />
 					<h2>Secretary - Eve Twivy</h2>
-					<p>Emily is a 2nd year Natural Sciences student at St
-					Aidan's College. She is studying joint honours Biology and
-					Chemistry.</p>
+					<p>Eve is a second year Psychology student at Van Mildert
+					college (also studied Chemistry and Biology in first year)
+					</p>
 					<p>Contact: <a href='m&#97;i&#108;&#116;o&#58;e&#46;r&#46;%6&#55;&#46;&#37;74&#119;i&#118;y&#64;durham&#46;&#37;&#54;1c&#37;&#50;&#69;&#117;k'>e&#46;r&#46;g&#46;twi&#118;y&#64;du&#114;ham&#46;&#97;c&#46;uk</a></p>
 				</div>
 				<div class="exec">
 					<img src="Exec/emily.png" alt="Emily" />
 					<h2>Publicity Officer - Emily Hughes</h2>
-					<p>Emily is a 2nd year Natural Sciences student.</p>
+					<p>Emily is a 2nd year Natural Sciences student at St
+					Aidan's College. She is studying joint honours Biology and
+					Chemistry.</p>
 					<p>Contact: <a href='m&#97;ilto&#58;e&#46;l&#46;&#104;ug%68&#101;&#37;&#55;3%40d%75rh%61m&#46;a&#99;%2Euk'>e&#46;l&#46;hug&#104;es&#64;dur&#104;&#97;m&#46;ac&#46;u&#107;</a></p>
 				</div>
 			</div>
