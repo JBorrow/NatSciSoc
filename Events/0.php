@@ -16,7 +16,7 @@ and visit different colleges!</p>
 <p>We would like you to wear item(s) of clothing that correspond to the
 colour(s) of the subject(s) that you study! Everyone is welcome!</p>
 
-<ul>
+<ul class="plain">
 	<li>Biology - Blue</li>
 	<li>Physics - Green</li>
 	<li>Chemistry - Purple</li>
