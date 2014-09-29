@@ -35,16 +35,22 @@ p {
 	padding:0.5em 0 0.5em 0;
 }
 
-.plain {
+.plain li {
 	/* PLAIN ULS */
-	list-style:disc;	
+	list-style:disc;
 }
+
+.plain {
+	padding:1em;
+}
+
 /* TITLE */
 
 .title img {
 	width:40em;
 	padding:1em;
 	margin:auto;
+	background-color:#7E317B;
 }
 
 .title {
