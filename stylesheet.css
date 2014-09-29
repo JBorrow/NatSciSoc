@@ -22,6 +22,7 @@ h1, h2, h3, h4, h5, h6 {
 img {
 	width:inherit;
 	border:1px solid #7E317B;
+	background-color:white;
 }
 
 a {
@@ -34,6 +35,10 @@ p {
 	padding:0.5em 0 0.5em 0;
 }
 
+.plain {
+	/* PLAIN ULS */
+	list-style:disc;	
+}
 /* TITLE */
 
 .title img {
