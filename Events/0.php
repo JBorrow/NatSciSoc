@@ -4,6 +4,9 @@
 
 <h2>11th October 2014</h2>
 
+<p>Click <a href = "https://www.facebook.com/events/784124361651172">here to go
+to the Facebook event</a>
+
 <p>Welcome to our first event of the year! We're going to be running a hill
 college bar crawl with a Rubik's Cube theme!</p>
 
@@ -16,7 +19,7 @@ and visit different colleges!</p>
 <p>We would like you to wear item(s) of clothing that correspond to the
 colour(s) of the subject(s) that you study! Everyone is welcome!</p>
 
-<ul>
+<ul class="plain">
 	<li>Biology - Blue</li>
 	<li>Physics - Green</li>
 	<li>Chemistry - Purple</li>

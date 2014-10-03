@@ -86,7 +86,7 @@ function read($file)
     $read = fread($handle, 1000000);
     fclose($handle);
 
-    $string = strip_tags($read, "<img><h1><h2><h3><h4><h5><h6><a><p>");
+    $string = strip_tags($read, "<img><h1><h2><h3><h4><h5><h6><a><p><li><ul>");
     
     //remove all of tim's nasty return chars
     $string = preg_replace('/&#160;/', " ", $string); 
