@@ -4,14 +4,16 @@
 
 <h2>11th October 2014</h2>
 
-<p>Click <a href = "https://www.facebook.com/events/784124361651172">here to go
-to the Facebook event</a>
-
 <p>Welcome to our first event of the year! We're going to be running a hill
 college bar crawl with a Rubik's Cube theme!</p>
 
-<p>We're going to meet at Grey College Bar at 8:00 pm on the 11th October 2014.
+<p>Click <a href = "https://www.facebook.com/events/784124361651172">here to go
+to the Facebook event</a></p>
+
+<p>We're going to meet at Collingwood College Bar at 8:00 pm on the 11th October 2014.
 </p>
+
+<h1>Please note that the event has been moved from Grey to Collingwood</h1>
 
 <p>Come along for a relaxed evening of fun, to meet scientists from all years
 and visit different colleges!</p>
