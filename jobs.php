@@ -3,7 +3,7 @@
 <html>
 	<head>
 		<?php
-		$thisPage = "Home";
+		$thisPage = "Jobs";
 		require_once('head.php');
 		?>
 	</head>
